@@ -105,3 +105,66 @@ li {
     text-align: center;
     color: #494949;
 }
+
+.quote-section {
+    padding: 100px 300px 100px 300px;
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+}
+
+.quotation {
+    color: #1F2937;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
+    font-style: italic;
+    font-size: 36px;
+}
+
+.quote-author {
+    margin-left: auto;
+    color: #1F2937;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.signup-section {
+    padding: 100px 300px 100px 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal {
+    width: 900px;
+    padding: 50px 100px 50px 100px;
+    display: flex;
+    background-color: #3882f6;
+    border-radius: 10px;
+    flex-shrink: 0;
+}
+
+.modal-title {
+    color: #F9FAF8;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.modal-text {
+    font-size: 16px;
+    color: #E5E7EB;
+}
+
+.second-signup {
+    border-radius: 10px;
+    width: 120px;
+    height: 40px;
+    background-color: #3882f6;
+    border: solid #F9FAF8 2px;
+    font-size: 16px;
+    color: #F9FAF8;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-left: auto;
+}
