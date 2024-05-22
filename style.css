@@ -168,3 +168,13 @@ li {
     margin-top: 10px;
     margin-left: auto;
 }
+
+.footer {
+    background-color: #1F2937;
+    padding: 50px 100px 50px 100px;
+}
+
+.footer-text {
+    color: #F9FAF8;
+    text-align: center;
+}
